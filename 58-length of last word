@@ -1,1 +1,8 @@
+s=s.trim();
+String[] ar=s.split("\\s");
+String s1=ar[ar.length-1];
+return s1.length();
 
+
+
+-------------------------------
